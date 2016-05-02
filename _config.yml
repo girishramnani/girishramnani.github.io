@@ -1,0 +1,22 @@
+# Site settings
+title: Code Maverick
+description: >
+  Writing about programming and what not.
+
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://girishramnani.github.io" # the base hostname & protocol for your site
+
+author:
+  fullname: Girish Ramnani
+  googleplus: https://www.google.com/+girishramnani95
+  github: girishramnani
+  twitter: girishramnani95
+  linkedin: https://www.linkedin.com/in/girishramnani
+  email: mailto:girishramnani95@gmail.com
+  stackoverflow: https://stackoverflow.com/users/4325278/girish-ramnani
+  # disqus: your_disqus_username
+
+# google_analytics: 'UA-XXXXXXXX-X'
+
+# Build settings
+markdown: kramdown
