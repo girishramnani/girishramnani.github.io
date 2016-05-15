@@ -9,3 +9,6 @@
 
 - slug: python
   name: python
+  
+- slug: golang
+  name: golang
