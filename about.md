@@ -1,10 +1,9 @@
 ---
 layout: page
 title: About
-subtitle: Just who the hell you think I am?
 permalink: /about/
 ---
 
 {% if site.author.fullname %}
-Hello my name is {{site.author.fullname}}. I am a passionate server side developer and my coding philosophy is human readable code.
+Hello my name is {{site.author.fullname}}. I am a distributed systems engineer and my coding philosophy is human readable code. Currently working at Redhat, making developers life easy with https://github.com/redhat-developer/odo
 {% endif %}

@@ -15,7 +15,7 @@ Python is a **weakly** typed programming language, that means you dont need to d
 
 The variables
 
-{% highlight python %}
+```python
 
 i = 5  #integer
 
@@ -25,7 +25,7 @@ k = "i love python" #string
 
 li = [1,2,3,4,5] # array or known as list in python
 
-{% endhighlight %}
+```
 
 Basic input output
 
